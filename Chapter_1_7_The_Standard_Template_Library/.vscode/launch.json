@@ -8,7 +8,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/hello",
+            "program": "${workspaceFolder}/stl_list",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
