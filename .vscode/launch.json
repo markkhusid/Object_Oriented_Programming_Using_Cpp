@@ -8,7 +8,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/Chapter_2_3_Program_Structure/gcd",
+            "program": "${workspaceFolder}/Chapter_3_4_Function_Prototypes/add3",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
