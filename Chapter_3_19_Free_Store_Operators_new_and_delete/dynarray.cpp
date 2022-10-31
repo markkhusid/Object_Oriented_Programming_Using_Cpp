@@ -21,6 +21,7 @@ int main()
         assert(size > 0);
 
         data = new int[size];
+        assert (data != 0);
 
         for (int j = 0; j < size; ++j) {
             cout << "\nEnter data at position " << j << " -> ";
