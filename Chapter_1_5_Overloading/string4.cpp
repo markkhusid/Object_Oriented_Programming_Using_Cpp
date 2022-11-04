@@ -32,8 +32,6 @@ class my_string {
             cout << s << "\nLength: " << len << endl;
         }
 
-        my_string& operator = (const my_string& a);
-
         friend my_string& operator+ (const my_string& a, const my_string& b);
     
     private:
@@ -69,6 +67,8 @@ int main()
         one.print();
     else
         two.print();
-    both = one + two;   // plus overloaded as concatenate
+
+    both = one + two;
+
     both.print();
 }
