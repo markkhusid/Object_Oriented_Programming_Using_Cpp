@@ -8,7 +8,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/Chapter_1_5_Overloading/string4",
+            "program": "${workspaceFolder}/Chapter_4_7_Bit_Fields/set",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
