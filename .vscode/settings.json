@@ -1,4 +1,8 @@
 {
     "C_Cpp.errorSquiggles": "Enabled",
-    "jupyter.allowUnauthorizedRemoteConnection": true
+    "jupyter.allowUnauthorizedRemoteConnection": true,
+    "files.associations": {
+        "*.cpp": "cpp",
+        "iostream": "cpp"
+    }
 }
