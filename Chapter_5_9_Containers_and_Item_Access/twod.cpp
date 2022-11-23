@@ -89,6 +89,6 @@ int main ()
     print_2d(a);
     cout << "\n\nPrinting 6x4 matrix B...\n";
     print_2d(b);
-    cout << "\nMax elemnt in size 2x3 matrix A is -> " << find_max(a) << endl;
-    cout << "\nMax elemnt in size 4x6 matrix A is -> " << find_max(b) << endl;
+    cout << "\nMax element in size 3x2 matrix A is -> " << find_max(a) << endl;
+    cout << "\nMax element in size 6x3 matrix B is -> " << find_max(b) << endl;
 }
