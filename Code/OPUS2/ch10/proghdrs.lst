@@ -1,0 +1,19 @@
+
+gentree2.cpp       7.4    Code Reuse: A Binary Tree Class 
+ex14.cpp           Exercis 
+ex3.cpp            Exercis 
+predator.cpp       10.5   Absract Base Classes 
+virt_sel.cpp       10.4   Virtual Functions 
+shape2.cpp         10.4   Virtual Functions 
+stack_t2.cpp       10.6   Templates and Inheritance 
+virt_err.cpp       10.4   Virtual Functions 
+stack_t3.cpp       10.6   Templates and Inheritance 
+acc_mod.cpp        10.10  Pragmatics 
+ex8.cpp            Exercis 
+typeid.cpp         10.9   Runtime Type Identification 
+student2.cpp       10.1   A Derived Type 
+student2.h         10.1   A Derived Type 
+ex3.h              10.3   Code Reuse: A Binary Tree Class 
+gentree2.h         10.3   Code Reuse: A Binary Tree Class 
+stack_t2.h         10.6   Templates and Inheritance 
+ex8.h              10.3   Code Reuse: A Binary Tree Class 

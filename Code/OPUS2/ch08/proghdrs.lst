@@ -1,0 +1,12 @@
+
+memcopy.cpp        8.5    Genericity with void 
+ex7.cpp            Exercis 
+strcptr.cpp        8.7    Pointer Operators and Smart Pointers 
+vectsort.cpp       8.1    Visitation 
+vectacum.cpp       8.1    Visitation 
+string8.cpp        8.4    Friendly Classes and Iterators 
+month.cpp          8.5    Genericity with void* 
+list2.h            8.6    List and List Iterator 
+genstack.h         8.5    Genericity with void* 
+vector.h           8.1    Visitation 
+string8.h          8.4    Friendly Classes and Iterators 

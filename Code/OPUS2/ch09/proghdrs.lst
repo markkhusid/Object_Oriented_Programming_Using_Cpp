@@ -1,0 +1,24 @@
+
+swap.cpp           9.2    Signature Overloading 
+gentree1.cpp       9.5    Parameterized Binary Search Tree 
+stack_t1.cpp       9.1    Template Class Stack 
+vect_it.cpp        9.4    Parameterizing the Class vect 
+quiksort.cpp       9.5    Parameterizing quicksort() 
+coerce.cpp         9.3    Class Templates     xxx doesn't compile *** 
+copy2.cpp          9.2    Function Templates 
+copy1.cpp          9.2    Function Templates 
+array_tm.cpp       9.3    Class Templates 
+stl_io.cpp         9.9    Iterators 
+stl_fucn.cpp       9.11   STL  Functions 
+stl_age.cpp        9.8    STL Associative Containers 
+stl_cont.cpp       9.7    STL 
+stl_deq.cpp        9.8    STL Containers 
+stl_find.cpp       9.10   STL  Sequence Algorithms 
+stl_adap.cpp       9.12   STL Function Adaptors 
+stl_iadp.cpp       9.9    STL Iterator Adaptors 
+stl_numr.cpp       9.10   STL  Numerical Algorithms 
+stl_revr.cpp       9.10   STL Sequence Algorithms 
+stl_sort.cpp       9.10   STL  Sorting Algorithms 
+stl_stak.cpp       9.8    STL  Container Adaptors 
+stl_vect.cpp       9.8    STL Sequence Containers 
+vect_it.h          9.4    Parameterizing the Class vect 

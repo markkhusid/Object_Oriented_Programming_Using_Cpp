@@ -1,0 +1,16 @@
+
+string5.cpp        6.4    An Example: Dynamically Allocated Strings 
+ex18.cpp           Exercis 
+tracking.cpp       6.11   No Constructor, Copy Constructor Other Mysteries 
+string6.cpp        6.10   Strings Using Reference Semantics 
+ex3.cpp            Exercis 
+modulo.cpp         6.1    Classes with Constructors 
+printabl.cpp       6.1    Constructors as Conversions 
+ch_stac4.cpp       6.2    Constructing a Dynamically Sized Stack 
+vect1.cpp          6.7    A Class vect 
+matrix1.cpp        6.8    Two Dimensional Arrays 
+poly1.cpp          6.9    Polynomial as a Linked List 
+pairvect.cpp       6.5    A Class vect 
+slist.cpp          6.7    An Example:  A Singly Linked List 
+ch_stac4.h         6.2    Constructing a Dynamically Sized Stack 
+vect1.h            6.5    A class vect 

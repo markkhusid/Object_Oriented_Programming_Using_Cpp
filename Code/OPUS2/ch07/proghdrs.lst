@@ -1,0 +1,12 @@
+
+poly2.cpp          7.9    Type and Language Expectations 
+new_hdlr.cpp       7.12   Overloading new and delete 
+clock.cpp          7.6    Unary, Binary Overloading 
+matrix2.cpp        7.3    Friend Functions 
+string7.cpp        7.1    ADT Conversions 
+rational.cpp       7.3    Overloading and Function Selection 
+matrix3.cpp        7.10   Overloading () for Indexing 
+over_new.cpp       7.12   Overloading new and delete 
+showhide.cpp       7.11   Pointer Operators 
+ex7.cpp            Exercis 
+vect2.h            7.7    Friend Functions 

@@ -1,0 +1,12 @@
+
+except.cpp         11.10  Standard Exceptions and their Use 
+vect4.cpp          11.3   C++ Exceptions 
+catch.cpp          9.5    Handlers 
+signal.cpp         11.2   Using signal.h 
+vect3.cpp          11.2   Using signal.h 
+throw1.cpp         11.4   Throwing Exceptions 
+throw2.cpp         11.4   Throwing Exceptions 
+bad_cast.cpp       11.10  Standard Exceptions and their Use 
+ex1.cpp            Exercis 
+vect4.h            11.3   C++ Exceptions 
+vect3.h            9.1    Using assert.h 
