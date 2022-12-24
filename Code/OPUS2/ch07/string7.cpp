@@ -73,8 +73,8 @@ my_string my_string::operator=(my_string& a)
 int main()
 {
    my_string s("Test it"), c("One"), d("Two");
-   char*  logo = "Geometrics Inc";
-   char*  testit;
+   char* logo = "Geometrics Inc";
+   char* testit;
 
    testit = s;
    cout << testit << endl;     // check convert my_string to char*
